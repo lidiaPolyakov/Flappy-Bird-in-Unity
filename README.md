@@ -1,8 +1,2 @@
-# Flappy Bird (2D)
+Fluppy Bird is a Unity-based game inspired by the classic Flappy Bird. In this game, players control a bird, navigating it through a series of pipes without crashing. The aim is to achieve the highest possible score by flying the bird as far as possible without hitting any obstacles.
 
-> Flappy Bird is a mobile game developed by Vietnamese video game artist and programmer Dong Nguyen. The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
-
-- **Topics**: Side Scrolling, Infinite Generation, Parallax
-- **Version**: Unity 2019.4 (LTS)
-- [**Download**](https://github.com/zigurous/unity-flappy-bird-tutorial/archive/refs/heads/main.zip)
-- [**Watch Video**](https://youtu.be/ihvBiJ1oC9U)
